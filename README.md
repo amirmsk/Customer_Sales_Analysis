@@ -32,10 +32,6 @@ The aim of this project is to analyze customer behaviors and sales data to ident
 4. **Time Series Plots**: Visualizes total amount minus discount over time.
 5. **Cluster Behavior Change**: Shows changes in behavior over time for different clusters.
 
-## Conclusion
-
-This analysis provides valuable insights into customer behaviors and sales patterns, helping to make data-driven decisions to enhance business strategies.
-
 ## How to Run
 
 1. Ensure you have R and the necessary packages installed.
