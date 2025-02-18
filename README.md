@@ -3,7 +3,7 @@
 
 # Customer and Sales Analysis
 
-This repository contains an analysis of customer behaviors and sales data using R.
+This repository contains an analysis of customer behaviors and sales data using R. there is no data included.
 
 ## Project Overview
 
